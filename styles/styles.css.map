@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACR,KAAK,EAAE,MAAM;;AAGjB,iBAAkB;EACd,KAAK,EAAE,MAAM;;ACJjB,WAAY;EACR,KAAK,EAAE,MAAM;;AAGjB,iBAAkB;EACd,KAAK,EAAE,MAAM",
+"sources": ["../SASS/Card.scss","../SASS/Styles.scss"],
+"names": [],
+"file": "styles.css"
+}
